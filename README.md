@@ -111,9 +111,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 💬 Contact
 
-For any inquiries, questions, or feedback, feel free to open an issue or reach out directly!
-
-- **Use GitHub Badges**: You can add badges for things like Python version, license, build status, etc., to make the project feel more professional.
-- **Add a GIF or screenshot** of the working app to showcase how it looks and functions in practice.
-
-With this documentation, developers will quickly understand the utility of the tool, how to get it running, and how to contribute or integrate future features. Let me know if you'd like to adjust any part of it or add more details!
+For any inquiries, questions, or feedback, feel free to open an issue or contact me.
