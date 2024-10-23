@@ -15,3 +15,5 @@ scraper_db.db
 # Ignore logs
 *.log
 
+# Ignore files directory
+scraped_results/
