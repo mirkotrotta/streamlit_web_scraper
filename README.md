@@ -112,3 +112,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 💬 Contact
 
 For any inquiries, questions, or feedback, feel free to open an issue or contact me.
+
+## Development Workflow
+
+- All new features and fixes should be made in the `dev` branch.
+- After testing, merge `dev` into `main` via a pull request.
+- Use feature branches (e.g., `feature-docker`) for major updates.
