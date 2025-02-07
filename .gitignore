@@ -17,3 +17,4 @@ scraper_db.db
 
 # Ignore files directory
 scraped_results/
+scraped_results/
